@@ -1,0 +1,6 @@
+{
+  "name": "CodeMtaani Anthem Studio",
+  "description": "Afro-futuristic Afropop anthem, stem mixer, and Lyria AI music generator for the CodeMtaani tech community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
